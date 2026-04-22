@@ -1,5 +1,6 @@
-# Template Project
+# CATAN-Traveler: 5-6 Player Expansion
 
-This is a template for a project.
+[more information](https://janniselef.github.io/projects/catan-traveler-5-6-player-expansion/)
 
-This README.md is hosted on [it's own GitHub Repository.](https://github.com/JannisElef/project-template)
+
+Custom 5-6 Player Expansion for CATAN-Traveler: new figures and an add-on frame.
